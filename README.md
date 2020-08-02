@@ -1,1 +1,1 @@
-<img src="./img.svg">
+<img src="https://github.com/developerNitin/developerNitin/blob/master/img.svg">
